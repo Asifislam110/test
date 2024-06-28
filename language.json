@@ -1,0 +1,22 @@
+[
+    {
+        "NativeName": "English",
+        "TwoLetterCode": "en",
+        "Name": "en"
+    },
+    {
+        "NativeName": "Chinese - Simplified",
+        "TwoLetterCode": "zh",
+        "Name": "zh-CN"
+    },
+    {
+        "NativeName": "Chinese - Traditional",
+        "TwoLetterCode": "zh",
+        "Name": "zh-TW"
+    },
+    {
+        "NativeName": "Spanish",
+        "TwoLetterCode": "es",
+        "Name": "es-ES"
+    }
+]
